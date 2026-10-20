@@ -2,3 +2,5 @@ DANH SÁCH SINH VIÊN
 ID: 1 | Nguyen Van A | Tuổi: 20 | Ngành: Computer Science | GPA: 3.4
 ID: 2 | Tran Thi B | Tuổi: 21 | Ngành: Data Science | GPA: 3.8
 ID: 3 | Le Van C | Tuổi: 22 | Ngành: Information Technology | GPA: 3.1
+ID: 4 | Pham Minh D | Tuổi: 20 | Ngành: Data Science | GPA: 3.6
+ID: 5 | Vu Hai Yen | Tuổi: 21 | Ngành: Computer Science | GPA: 3.9

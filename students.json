@@ -19,5 +19,19 @@
     "age": 22,
     "major": "Information Technology",
     "gpa": 3.1
+  },
+  {
+    "id": 4,
+    "name": "Pham Minh D",
+    "age": 20,
+    "major": "Data Science",
+    "gpa": 3.6
+  },
+  {
+    "id": 5,
+    "name": "Vu Hai Yen",
+    "age": 21,
+    "major": "Computer Science",
+    "gpa": 3.9
   }
 ]
