@@ -1,7 +1,7 @@
 # DỰ ÁN: TỪ DỮ LIỆU ĐẾN PHÂN TÍCH VỚI PYTHON
 - **Họ và tên:** Đào Hoàng Đức
 - **MSSV:** 2200011169
-- **Lớp:** [Điền mã lớp của bạn vào đây]
+- **Lớp:** 23DTH2A
 
 ---
 
